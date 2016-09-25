@@ -1,0 +1,7 @@
+sophie_homepage:
+    path:     /
+    defaults: { _controller: SophieBundle:Recepy:index }
+
+    recepy_show:
+    path:     /recepy/{slug}
+    defaults: { _controller: SophieBundle:Recepy:show }

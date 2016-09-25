@@ -1,5 +1,5 @@
 sophie:
-    resource: "@SophieBundle/Resources/config/routing.php"
+    resource: "@SophieBundle/Resources/config/routing.yml"
     prefix:   /
 
 app:
